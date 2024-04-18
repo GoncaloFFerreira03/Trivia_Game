@@ -1,0 +1,25 @@
+Arte|Qual destes é um instrumento de sopro?|Saxofone|Violino|Piano|Guitarra|Bateria|1
+Arte|Qual é o nome da escultura de Michelangelo que representa um homem nu?|Davi|Moises|Adao|Pieta|A Criaçao de Adao|2
+Arte|Quem escreveu a 9º Sinfonia?|Beethoven|Bach|Mozart|Chopin|Tchaikovsky|3
+Arte|Quem escreveu "Romeu e Julieta"?|William Shakespeare|Charles Dickens|Malcolm Dome|Emily Bronte|Mark Twain|2
+Arte|Quem é que canta bohemian rhapsody?|Queen|Scorpions|Guns & Roses|Kiss|Rolling Stones|3
+Futebol|Que jogador tem 8 bolas de ouro?|Messi|Ronaldo|Zidane|Modric|Eusebio|Camisola 10|Camisola 7|Camisola 5|Camisola 9|Camisola 15|10
+Futebol|Quem é conhecido como "CR7" no mundo do futebol?|Cristiano Ronaldo|Messi|Pele|Maradona|Mantorras|Camisola 7|Camisola 9|Camisola 10|Camisola 21|Camisola 99|15
+Futebol|Que jogador é apelidado de "Pantera Negra"?|Eusebio|Mantorras|Pele|Pepe|Coates|Camisola 10|Camisola 8|Camisola 9|Camisola 15|Camisola 20|16
+Futebol|Qual destes jogadores tem 5 champions?|Modric|Pele|Eusebio|Kaka|Zidane|Camisola 10|Camisola 9|Camisola 6|Camisola 35|Camisola 99|12
+Futebol|Que jogador era conhecido como "Chalana"?|Fernando Chalana|Jose Chalana|Antonio Chalana|Gustavo Chalana|Gonçalo Chalana|Camisola 10|Camisola 7|Camisola 5|Camisola 11|Camisola 21|11
+Natação|Michael Phelps é o maior detentor de medalhas olímpicas?|Verdadeiro|Falso|9
+Natação|Katie Ledecky detém o recorde mundial nos 800 metros estilo livre feminino?|Verdadeiro|Falso|10
+Natação|A natação é um desporto que ajuda a melhorar a capacidade respiratória?|Verdadeiro|Falso|5
+Natação|As medidas de uma piscina olímpica são 40m?|Falso|Verdadeiro|8
+Natação|Existem 5 estilos de natação que fazem parte dos jogos olímpicos?|Falso|Verdadeiro|7
+Ski|Marit Bjørgen ganhou os jogos olímpicos de inverno de 2010?|Verdadeiro|Falso|10
+Ski|O ski alpino é uma modalidade de ski que envolve saltos?|Falso|Verdadeiro|9
+Ski|O jogos olímpicos de inverno de 2022 foram realizados em Beijing?|Verdadeiro|Falso|8
+Ski|O ski freestyle é uma modalidade de ski que envolve manobras acrobáticas|Verdadeiro|Falso|7
+Ski|St. Moritz é o local que mais sediou o Mundial de ski Alpino?|Verdadeiro|Falso|6
+Ciência|Qual é o símbolo químico para o ouro?|Au|C|He|O|H|Ag|Lu|Al|Ar|10
+Ciência|Quem desenvolveu a teoria da relatividade?|Albert Einstein|Cristiano Ronaldo|Lance Armstrong|Nelson Monte|Anthony Pogba|Isaac Newton|Marie Curie|Galileu|Stephen Hawking|9
+Ciência|Qual é a unidade básica de energia no sistema internacional?|Joule|Km|Milhas|Kg|Hz|Volt|Watts|Parsec|Amper|14
+Ciência|Qual destes elementos é um gás nobre?|Helio|Agua|Sodio|Hidrogenio|Calcio|Cloro|Ferro|Bromo|Iodo|13
+Ciência|Quantos planetas fazem parte do nosso sistema solar?|8|30|15|25|10|6|9|7|5|18
